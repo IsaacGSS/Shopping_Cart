@@ -1,0 +1,16 @@
+#PurchaseOrder {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    width: 100%;
+
+    #OrderDescription {
+        img {
+            width: 60px;
+        }
+    }
+
+    img {
+        width: 20px;
+    }
+}
